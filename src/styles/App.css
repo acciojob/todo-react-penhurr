@@ -1,1 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
+.main{
+    text-align: center;
+}
+
+
+.todo p{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+}
